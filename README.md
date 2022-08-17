@@ -25,8 +25,8 @@ This is my first project in FrontEnd Mentor. It is a code for the QR component o
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/eby-coder/fluffy-system.git)
+- Live Site URL: [Add live site URL here](https://eby-coder.github.io/fluffy-system/)
 
 ## My process
 
