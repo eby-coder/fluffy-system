@@ -19,7 +19,7 @@ body {
 
 .entire-page {
     background-color: var(--white);
-    margin: 20% auto;
+    margin: 50px auto;
     width: 400px;
     border-radius: 20px;
     overflow: hidden;
